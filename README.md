@@ -1,16 +1,14 @@
-# dio-gitgithub
-Repositório para o desafio Git/GitHub da Dio
-
-# Conteúdos do Bootcamp Amdocs JAVA Developer
+# Bootcamp Amdocs JAVA Developer
+Repositório para o desafio Git/GitHub
 
 <details>
-<summary>Ver tudo</summary>
-- [x] Lógica de Programação Essencial
-- [x] Estrutura de Dados e Algoritmos
-- [x] Introdução ao Git e GitHub
-- [x] Projetos ágeis com SCRUM
-- [ ] Linux: Introdução ao Sistema Operacional e Terminal
-- [ ] Linux: Diretórios e Comandos Essenciais
+<summary>Ver conteúdos do curso</summary>
+- Lógica de Programação Essencial
+- Estrutura de Dados e Algoritmos
+- Introdução ao Git e GitHub
+- Projetos ágeis com SCRUM
+- Linux: Introdução ao Sistema Operacional e Terminal
+- Linux: Diretórios e Comandos Essenciais
 - Linux: Fundamentos de Redes e Comadnso Avançados
 - Linux: Gerenciamento de Pacotes
 - Dominando IDEs Java
