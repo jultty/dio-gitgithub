@@ -3,12 +3,14 @@ Repositório para o desafio Git/GitHub da Dio
 
 # Conteúdos do Bootcamp Amdocs JAVA Developer
 
-- Lógica de Programação Essencial
-- Estrutura de Dados e Algoritmos
-- Introdução ao Git e GitHub
-- Projetos ágeis com SCRUM
-- Linux: Introdução ao Sistema Operacional e Terminal
-- Linux: Diretórios e Comandos Essenciais
+<details>
+<summary>Ver tudo</summary>
+- [x] Lógica de Programação Essencial
+- [x] Estrutura de Dados e Algoritmos
+- [x] Introdução ao Git e GitHub
+- [x] Projetos ágeis com SCRUM
+- [ ] Linux: Introdução ao Sistema Operacional e Terminal
+- [ ] Linux: Diretórios e Comandos Essenciais
 - Linux: Fundamentos de Redes e Comadnso Avançados
 - Linux: Gerenciamento de Pacotes
 - Dominando IDEs Java
@@ -29,3 +31,4 @@ Repositório para o desafio Git/GitHub da Dio
 - Simplificando Projetos Java com o Spring Boot
 - Introdução aos Conceitos de API e Clean Architecture
 - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
+</details>
