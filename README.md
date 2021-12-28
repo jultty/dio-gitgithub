@@ -1,6 +1,11 @@
 # Bootcamp Amdocs JAVA Developer
 Repositório para o desafio Git/GitHub
 
+- [ ] Teste checkbox 1
+- [x] Teste checkbox 2
+- [ ] Teste checkbox 3
+- [x] Teste checkbox 4
+
 <details>
 <summary>Ver conteúdos do curso</summary>
 - Lógica de Programação Essencial
