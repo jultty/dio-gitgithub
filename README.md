@@ -1,14 +1,18 @@
 # Bootcamp Amdocs JAVA Developer
 Repositório para o desafio Git/GitHub
 
+## Meu progresso no bootcamp
 - [x] Lógica de Programação Essencial
 - [x] Estrutura de Dados e Algoritmos
 - [x] Introdução ao Git e GitHub
 - [x] Projetos Ágeis com SCRUM
 - [ ] Linux: Introdução ao Sistema Operacional e Terminal
 
+## Conteúdos desse repositório
+- [Git](git.md)
+
 <details>
-<summary>Ver todos os conteúdos do curso</summary>
+<summary>Ver currículo do curso</summary>
 <ol>
 <li>Lógica de Programação Essencial</li>
 <li>Estrutura de Dados e Algoritmos</li>
