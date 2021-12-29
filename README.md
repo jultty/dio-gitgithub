@@ -7,9 +7,8 @@ Repositório para o desafio Git/GitHub
 :heavy_check_mark: Introdução ao Git e GitHub  
 :heavy_check_mark: Projetos Ágeis com SCRUM  
 :heavy_check_mark: Linux: Introdução ao Sistema Operacional e Terminal  
-:heavy_check_mark: Linux: Introdução ao Sistema Operacional e Terminal
-:heavy_check_mark: Linux: Diretórios e Comandos Essenciais
-:hourglass: Fundamentos de Redes e Comandos Avançados
+:heavy_check_mark: Linux: Diretórios e Comandos Essenciais  
+:hourglass: Fundamentos de Redes e Comandos Avançados  
 
 ## Conteúdos desse repositório
 - [Git](git.md)
