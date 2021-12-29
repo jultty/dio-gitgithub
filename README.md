@@ -2,11 +2,11 @@
 Repositório para o desafio Git/GitHub
 
 ## Meu progresso no bootcamp
-:heavy_check_mark: Lógica de Programação Essencial
-:heavy_check_mark: Estrutura de Dados e Algoritmos
-:heavy_check_mark: Introdução ao Git e GitHub
-:heavy_check_mark: Projetos Ágeis com SCRUM
-:hourglass: Linux: Introdução ao Sistema Operacional e Terminal
+:heavy_check_mark: Lógica de Programação Essencial  
+:heavy_check_mark: Estrutura de Dados e Algoritmos  
+:heavy_check_mark: Introdução ao Git e GitHub  
+:heavy_check_mark: Projetos Ágeis com SCRUM  
+:hourglass: Linux: Introdução ao Sistema Operacional e Terminal  
 
 ## Conteúdos desse repositório
 - [Git](git.md)
