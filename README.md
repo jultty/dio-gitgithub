@@ -2,22 +2,18 @@
 Repositório para o desafio Git/GitHub
 
 ## Meu progresso no bootcamp
-- [x] Lógica de Programação Essencial
-- [x] Estrutura de Dados e Algoritmos
-- [x] Introdução ao Git e GitHub
-- [x] Projetos Ágeis com SCRUM
-- [ ] Linux: Introdução ao Sistema Operacional e Terminal
+- ✅Lógica de Programação Essencial
+- ✅Estrutura de Dados e Algoritmos
+- ✅Introdução ao Git e GitHub
+- ✅Projetos Ágeis com SCRUM
+- ✅Linux: Introdução ao Sistema Operacional e Terminal
 
 ## Conteúdos desse repositório
 - [Git](git.md)
 
 <details>
-<summary>Ver currículo do curso</summary>
+<summary>Currículo restante no bootcamp</summary>
 <ol>
-<li>Lógica de Programação Essencial</li>
-<li>Estrutura de Dados e Algoritmos</li>
-<li>Introdução ao Git e GitHub</li>
-<li>Projetos ágeis com SCRUM</li>
 <li>Linux: Introdução ao Sistema Operacional e Terminal</li>
 <li>Linux: Diretórios e Comandos Essenciais</li>
 <li>Linux: Fundamentos de Redes e Comadnso Avançados</li>
