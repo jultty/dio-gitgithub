@@ -16,9 +16,9 @@ Sendo assim, caso haja um problema na sua máquina ou mesmo no servidor, se outr
 
 O git usa um algoritmo de criptografia desenvolvido pelo governo dos Estados Unidos chamado SHA-1. O nome vem da sigla "Secure Hash Algorithm 1", que significa "Algoritmo de Hash Segura 1".
 
-Na programação, uma *função* é um código que pode ser executado repetidamente no mesmo programa, recebendo diferentes informações a cada vez que é executado e um tipo de função é a *função hash*.
+Na programação, uma *função* é um código que pode ser executado repetidamente no mesmo programa, recebendo diferentes informações de entrada a cada vez que é executado e dando um retorno de acordo com elas. Um tipo de função é a *função hash*.
 
-A função hash do algoritmo SHA-1 gera uma sequência única de letras e números que sempre é a mesma para a mesma informação processada, permitindo que grandes quantidades de dados sejam comparadas, porque este retornar será sempre o mesmo contanto que as informações recebidas sejam as mesmas.
+A função hash do algoritmo SHA-1 gera uma sequência única de letras e números que sempre é a mesma para a mesma informação processada, permitindo que grandes quantidades de dados sejam comparadas, porque este retorno será sempre o mesmo contanto que as informações recebidas sejam as mesmas.
 
 Veja aqui dois exemplos de hashs:
 
@@ -41,14 +41,16 @@ O comando acima, "echo", envia as duas frases diferentes - uma com acentuação,
 
 Perceba como os resultados dos dois comandos são completamente diferentes, apesar de apenas termos trocado um acento.
 
-Apesar de formalmente *hash* ser a função que gera essa sequência de letras e números. é comum ver a próxima sequência também sendo chamada de *hash*. Ela sempre será a mesma. Se rodarmos agora o mesmo comando com o acento novamente, temos:
+Formalmente, *hash* é o nome da função que gera essa sequência de letras e números, mas é comum ver a própria sequência também sendo chamada de *hash*.
+
+Essa sequência sempre será igual para uma mesma entrada. Se rodarmos agora o mesmo comando com o acento novamente, temos:
 
 ```sh
 echo "olá, dio" | openssl sha1
 (stdin)= 4e6d63bc5dd80b0a6cd0d0890792acb0b892911e
 ```
 
-A saída é o mesmo resultado mais uma vez.
+A saída é o mesmo resultado, 4e6d...
 
 Quando você salva arquivos com o Git, ao invés de comparar o conteúdo em caracteres ele obtém a hash do seu arquivo. Enquanto nada for alterado nele, a hash será a mesma. O Git também obtém a hash de um diretório inteiro com múltiplos arquivos. Enquanto essa hash permanecer igual, ele sabe que naquele diretório nada foi alterado.
 
@@ -67,18 +69,18 @@ No mesmo site você pode consultar também a [documentação oficial](https://gi
 ## Termos comuns
 
 * **repositório:** Um diretório (pasta) de arquivos cujos conteúdos estão sendo acompanhados com o git
-* **username:** O nome guardado na variável user.name que será usado para autenticar-se em um servidor remoto. Deve ser o mesmo cadastrado no servidor.
-* **commit/comitar:** A cada vez que você altera um arquivo, o Git percebe essa alteração comparando as hashs obtidas. Ele então pede a você que, antes de enviar suas mudanças, *comite* elas. Commit quer dizer literalmente *comprometer*, ou seja, ao comitar você atesta que foi você quem fez as mudanças e informa uma mensagem explicando que mudanças foram feitas. O commit contém as informações de quem, quando e o que foi alterado. O registro de versões do Git consiste numa sequência dos commits que cada pessoa envia para o repositório.
+* **username:** O nome guardado na variável *user.name* que será usado para autenticar-se em um servidor remoto. Deve ser o mesmo cadastrado no servidor.
+* **commit/comitar:** Antes de enviar suas mudanças, o Git pede que você *comite* elas. Commit quer dizer literalmente *comprometer*, ou seja, ao comitar você atesta que foi você quem fez as mudanças e informa uma mensagem explicando o que foi feito. O commit contém as informações de quem, quando e o que foi alterado. O registro de versões do Git consiste numa sequência dos commits que cada pessoa envia para o repositório.
 
 ## Comandos básicos
 
 Para o uso básico do Git você vai usar os seguintes comandos:
 
 | Comando                                                          | Descrição                                              |
-|:----------------------------------------------------------------:|:------------------------------------------------------ |
+|:---------------------------------------------------------------- |:------------------------------------------------------ |
 | **git init**                                                     | Inicializa um repositório git no diretório atual       |
 | **git config --global user.email seu@email.com**                 | configura seu endereço de email                        |
-| **git config --global user.name nome****                         | configura seu nome de cadastro                         |
+| **git config --global user.name nome**                           | configura seu nome de cadastro                         |
 | **git status**                                                   | Mostra o status atual desse repositório                |
 | **git add nome_do_arquivo**                                      | Adiciona o arquivo para ser comitado                   |
 | **git add --all**                                                | Adiciona todos os arquivos para serem comitados        |
