@@ -6,7 +6,10 @@ Repositório para o desafio Git/GitHub
 :heavy_check_mark: Estrutura de Dados e Algoritmos  
 :heavy_check_mark: Introdução ao Git e GitHub  
 :heavy_check_mark: Projetos Ágeis com SCRUM  
-:hourglass: Linux: Introdução ao Sistema Operacional e Terminal  
+:heavy_check_mark: Linux: Introdução ao Sistema Operacional e Terminal  
+:heavy_check_mark: Linux: Introdução ao Sistema Operacional e Terminal
+:heavy_check_mark: Linux: Diretórios e Comandos Essenciais
+:hourglass: Fundamentos de Redes e Comandos Avançados
 
 ## Conteúdos desse repositório
 - [Git](git.md)
@@ -14,9 +17,7 @@ Repositório para o desafio Git/GitHub
 <details>
 <summary>Currículo restante no bootcamp</summary>
 <ul>
-<li>Linux: Introdução ao Sistema Operacional e Terminal</li>
-<li>Linux: Diretórios e Comandos Essenciais</li>
-<li>Linux: Fundamentos de Redes e Comadnso Avançados</li>
+<li>Linux: Fundamentos de Redes e Comandos Avançados</li>
 <li>Linux: Gerenciamento de Pacotes</li>
 <li>Dominando IDEs Java</li>
 <li>Introdução ao Ecossistema e Documentação Java</li>
