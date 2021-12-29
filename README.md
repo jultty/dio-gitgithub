@@ -2,18 +2,18 @@
 Repositório para o desafio Git/GitHub
 
 ## Meu progresso no bootcamp
-- :heavy_check_mark: Lógica de Programação Essencial
-- :heavy_check_mark: Estrutura de Dados e Algoritmos
-- :heavy_check_mark: Introdução ao Git e GitHub
-- :heavy_check_mark: Projetos Ágeis com SCRUM
-- :hourglass: Linux: Introdução ao Sistema Operacional e Terminal
+:heavy_check_mark: Lógica de Programação Essencial
+:heavy_check_mark: Estrutura de Dados e Algoritmos
+:heavy_check_mark: Introdução ao Git e GitHub
+:heavy_check_mark: Projetos Ágeis com SCRUM
+:hourglass: Linux: Introdução ao Sistema Operacional e Terminal
 
 ## Conteúdos desse repositório
 - [Git](git.md)
 
 <details>
 <summary>Currículo restante no bootcamp</summary>
-<ol>
+<ul>
 <li>Linux: Introdução ao Sistema Operacional e Terminal</li>
 <li>Linux: Diretórios e Comandos Essenciais</li>
 <li>Linux: Fundamentos de Redes e Comadnso Avançados</li>
@@ -36,7 +36,7 @@ Repositório para o desafio Git/GitHub
 <li>Simplificando Projetos Java com o Spring Boot</li>
 <li>Introdução aos Conceitos de API e Clean Architecture</li>
 <li>Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</li>
-</ol>
+</ul>
 </details>
 
 🐈‍⬛
