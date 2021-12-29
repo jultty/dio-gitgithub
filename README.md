@@ -2,11 +2,11 @@
 Repositório para o desafio Git/GitHub
 
 ## Meu progresso no bootcamp
-- ✅Lógica de Programação Essencial
-- ✅Estrutura de Dados e Algoritmos
-- ✅Introdução ao Git e GitHub
-- ✅Projetos Ágeis com SCRUM
-- ✅Linux: Introdução ao Sistema Operacional e Terminal
+- ✅ Lógica de Programação Essencial
+- ✅ Estrutura de Dados e Algoritmos
+- ✅ Introdução ao Git e GitHub
+- ✅ Projetos Ágeis com SCRUM
+- ✅ Linux: Introdução ao Sistema Operacional e Terminal
 
 ## Conteúdos desse repositório
 - [Git](git.md)
