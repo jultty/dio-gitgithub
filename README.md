@@ -9,8 +9,8 @@ Repositório para o desafio Git/GitHub
 :heavy_check_mark: Linux: Introdução ao Sistema Operacional e Terminal  
 :heavy_check_mark: Linux: Diretórios e Comandos Essenciais  
 :heavy_check_mark: Fundamentos de Redes e Comandos Avançados  
-:heavy_check_mark: Linux: Gerenciamento de Pacotes
-:heavy_check_mark: Dominando IDEs Java
+:heavy_check_mark: Linux: Gerenciamento de Pacotes  
+:heavy_check_mark: Dominando IDEs Java  
 :hourglass: Introdução ao Ecossistema e Documentação Java
 
 ## Conteúdos desse repositório
