@@ -8,18 +8,16 @@ Repositório para o desafio Git/GitHub
 :heavy_check_mark: Projetos Ágeis com SCRUM  
 :heavy_check_mark: Linux: Introdução ao Sistema Operacional e Terminal  
 :heavy_check_mark: Linux: Diretórios e Comandos Essenciais  
-:hourglass: Fundamentos de Redes e Comandos Avançados  
+:heavy_check_mark: Fundamentos de Redes e Comandos Avançados  
+:heavy_check_mark: Linux: Gerenciamento de Pacotes
+:heavy_check_mark: Dominando IDEs Java
+:hourglass: Introdução ao Ecossistema e Documentação Java
 
 ## Conteúdos desse repositório
 - [Git](git.md)
 
 <details>
 <summary>Currículo restante no bootcamp</summary>
-<ul>
-<li>Linux: Fundamentos de Redes e Comandos Avançados</li>
-<li>Linux: Gerenciamento de Pacotes</li>
-<li>Dominando IDEs Java</li>
-<li>Introdução ao Ecossistema e Documentação Java</li>
 <li>Configurando Ambiente de Desenvolvimento Java no Linux</li>
 <li>Variáveis, Tipos de Dados e Operadores Matemáticos em Java</li>
 <li>Lógica Condicional e Controle de Fluxos em Java</li>
