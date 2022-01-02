@@ -11,14 +11,14 @@ Repositório para o desafio Git/GitHub
 :heavy_check_mark: Fundamentos de Redes e Comandos Avançados  
 :heavy_check_mark: Linux: Gerenciamento de Pacotes  
 :heavy_check_mark: Dominando IDEs Java  
-:hourglass: Introdução ao Ecossistema e Documentação Java
+:heavy_check_mark: Introdução ao Ecossistema e Documentação Java  
+:hourglass: Configurando Ambiente de Desenvolvimento Java no Linux
 
 ## Conteúdos desse repositório
 - [Git](git.md)
 
 <details>
 <summary>Currículo restante no bootcamp</summary>
-<li>Configurando Ambiente de Desenvolvimento Java no Linux</li>
 <li>Variáveis, Tipos de Dados e Operadores Matemáticos em Java</li>
 <li>Lógica Condicional e Controle de Fluxos em Java</li>
 <li>Estruturas de Repetição e Arrays em Java</li>
