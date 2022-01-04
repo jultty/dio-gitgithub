@@ -22,7 +22,6 @@ Repositório para o desafio Git/GitHub
 
 <details>
 <summary>Currículo restante no bootcamp</summary>
-<li></li>
 <li>Reforçando o Conceito de Laços em Java</li>
 <li>Introdução à orientação a objetos com Java</li>
 <li>Implementando Collections e Streams com Java</li>
