@@ -76,7 +76,7 @@ No mesmo site você pode consultar também a [documentação oficial](https://gi
 
 Para o uso básico do Git você vai usar os seguintes comandos:
 
-| Comando                                                          | Descrição                                              |
+| **Comando**                                                          | **Descrição**                                              |
 |:---------------------------------------------------------------- |:------------------------------------------------------ |
 | **git init**                                                     | Inicializa um repositório git no diretório atual       |
 | **git config --global user.email seu@email.com**                 | configura seu endereço de email                        |
@@ -86,7 +86,7 @@ Para o uso básico do Git você vai usar os seguintes comandos:
 | **git add --all**                                                | Adiciona todos os arquivos para serem comitados        |
 | **git commit -m "mensagem"**                                     | Comita os arquivos preparados anteriormente            |
 | **git remote add origin seu-repositorio.git** 		   | Conecta seu repositório local a um endereço remoto     |
-| **git remote -v"**                      	                   | Mostra qual é o endereço remoto atualmente configurado |
+| **git remote -v**                      	                   | Mostra qual é o endereço remoto atualmente configurado |
 | **git remote set-url origin seu-repositorio.git**		   | Muda o endereço remoto configurado			    |
 | **git pull**                                                     | Obtém as atualizações do repositório remoto            |
 | **git push origin master**                                       | Envia suas alterações locais para o repositório remoto |
@@ -103,7 +103,7 @@ Dependendo do serviço que você utilizar, pode ser necessário não só criar u
 
 Abaixo há alguns comandos úteis ao lidar com esse tipo de autenticação. Consulte sempre a documentação atualizada da tecnologia, serviço, empresa ou instituição com a qual você está trabalhando para se certificar de que não segue protocolos específicos ou mais atuais.
 
-| Comando                                                          | Descrição                                              |
+| **Comando**                                                          | **Descrição**                                              |
 |:---------------------------------------------------------------- |:------------------------------------------------------ |
 | **ssh-keygen -t ed25519 -C seu@email.com**                       | Gera uma chave padrão Ed25519			    |
 | **eval $(ssh-agent -s)**					   | Inicia o agente ssh				    |
