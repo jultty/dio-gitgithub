@@ -85,15 +85,31 @@ Para o uso básico do Git você vai usar os seguintes comandos:
 | **git add nome_do_arquivo**                                      | Adiciona o arquivo para ser comitado                   |
 | **git add --all**                                                | Adiciona todos os arquivos para serem comitados        |
 | **git commit -m "mensagem"**                                     | Comita os arquivos preparados anteriormente            |
-| **git remote add origin https://github.com/seu-repositorio.git** | Conecta seu repositório local a uma origem remota      |
+| **git remote add origin seu-repositorio.git** 		   | Conecta seu repositório local a um endereço remoto     |
+| **git remote -v"**                      	                   | Mostra qual é o endereço remoto atualmente configurado |
+| **git remote set-url origin seu-repositorio.git**		   | Muda o endereço remoto configurado			    |
 | **git pull**                                                     | Obtém as atualizações do repositório remoto            |
 | **git push origin master**                                       | Envia suas alterações locais para o repositório remoto |
+
+Lembre-se de que não há uma forma única e correta de usar nada que se aplique a todos os casos de uso. Consulte seus pares e a documentação mais específica o possível para o seu contexto.
 
 ## Autenticação
 
 Para rodar os comandos acima que envolvem repositórios remotos você terá que se autenticar em algum servidor que ofereça repositórios Git.
 
 Dependendo do serviço que você utilizar, pode ser necessário não só criar uma conta mas também gerar chaves de autenticação.
+
+### Comandos básicos SSH
+
+Abaixo há alguns comandos úteis ao lidar com esse tipo de autenticação. Consulte sempre a documentação atualizada da tecnologia, serviço, empresa ou instituição com a qual você está trabalhando para se certificar de que não segue protocolos específicos ou mais atuais.
+
+| Comando                                                          | Descrição                                              |
+|:---------------------------------------------------------------- |:------------------------------------------------------ |
+| **ssh-keygen -t ed25519 -C seu@email.com**                       | Gera uma chave padrão Ed25519			    |
+| **eval $(ssh-agent -s)**					   | Inicia o agente ssh				    |
+| **ssh-add suachave**						   | Adiciona a chave ao agente				    |
+| **ssh-add -l**						   | Lista as chaves adicionadas ao agente		    |
+| **ssh-add -L**						   | Lista as chaves adicionadas em formato completo 	    |
 
 - [Veja aqui a documentação do GitHub sobre como gerar e cadastrar chaves com SSH](https://docs.github.com/pt/authentication/connecting-to-github-with-ssh)
 
