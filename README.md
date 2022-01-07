@@ -16,14 +16,14 @@ Repositório para o desafio Git/GitHub
 :heavy_check_mark: Variáveis, Tipos de Dados e Operadores Matemáticos em Java  
 :heavy_check_mark: Lógica Condicional e Controle de Fluxos em Java  
 :heavy_check_mark: Estruturas de Repetição e Arrays em Java  
-:hourglass: Reforçando o Conceito de Laços em Java  
+:heavy_check_mark: Reforçando o Conceito de Laços em Java  
+:hourglass: Introdução à orientação a objetos com Java  
 
 ## Conteúdos desse repositório
 - [Git](git.md)
 
 <details>
 <summary>Currículo restante no bootcamp</summary>
-<li>Introdução à orientação a objetos com Java</li>
 <li>Implementando Collections e Streams com Java</li>
 <li>Entrada e Saída de Arquivos (I/O) em Java</li>
 <li>SQL Server - Criando suas primeiras consultas</li>
