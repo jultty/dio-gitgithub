@@ -19,14 +19,14 @@ Repositório para o desafio Git/GitHub
 :heavy_check_mark: Reforçando o Conceito de Laços em Java  
 :heavy_check_mark: Introdução à orientação a objetos com Java  
 :heavy_check_mark: Implementando Collections e Streams com Java  
-:hourglass: Entrada e Saída de Arquivos (I/O) em Java  
+:heavy_check_mark: Entrada e Saída de Arquivos (I/O) em Java  
+:hourglass: SQL Server - Criando suas primeiras consultas  
 
 ## Conteúdos desse repositório
 - [Git](git.md)
 
 <details>
 <summary>Currículo restante no bootcamp</summary>
-<li>SQL Server - Criando suas primeiras consultas</li>
 <li>Modelando um banco de dados na prática com SQL Server</li>
 <li>SQL Server: Boas práticas em bancos relacionais</li>
 <li>Introdução a APIs e métodos HTTP</li>
