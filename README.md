@@ -1,6 +1,9 @@
 # Bootcamp Amdocs JAVA Developer
 Repositório para o desafio Git/GitHub
 
+## Conteúdos desse repositório
+- [Git](git.md)
+
 ## Meu progresso no bootcamp
 :heavy_check_mark: Lógica de Programação Essencial  
 :heavy_check_mark: Estrutura de Dados e Algoritmos  
@@ -22,9 +25,6 @@ Repositório para o desafio Git/GitHub
 :heavy_check_mark: Entrada e Saída de Arquivos (I/O) em Java  
 :heavy_check_mark: Desafio Java - Bootcamp Amdocs  
 :hourglass: Criando um Banco Digital com Java e Orientação a Objetos  
-
-## Conteúdos desse repositório
-- [Git](git.md)
 
 <details>
 <summary>Currículo restante no bootcamp</summary>
