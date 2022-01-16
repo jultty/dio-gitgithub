@@ -24,11 +24,11 @@ Repositório para o desafio Git/GitHub
 :heavy_check_mark: Implementando Collections e Streams com Java  
 :heavy_check_mark: Entrada e Saída de Arquivos (I/O) em Java  
 :heavy_check_mark: Desafio Java - Bootcamp Amdocs  
-:hourglass: Criando um Banco Digital com Java e Orientação a Objetos  
+:heavy_check_mark: Criando um Banco Digital com Java e Orientação a Objetos  
+:hourglass: SQL Server - Criando suas primeiras consultas
 
 <details>
 <summary>Currículo restante no bootcamp</summary>
-<li>SQL Server - Criando suas primeiras consultas</li>
 <li>Modelando um banco de dados na prática com SQL Server</li>
 <li>SQL Server: Boas práticas em bancos relacionais</li>
 <li>Introdução a APIs e métodos HTTP</li>
