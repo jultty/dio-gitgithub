@@ -29,12 +29,12 @@ Repositório para o desafio Git/GitHub
 :heavy_check_mark: Modelando um banco de dados na prática com SQL Server  
 :heavy_check_mark: SQL Server: Boas práticas em bancos relacionais  
 :heavy_check_mark: Introdução a APIs e métodos HTTP  
-:hourglass: Introdução ao framework Spring Boot  
+:heavy_check_mark: Introdução ao framework Spring Boot  
+:heavy_check_mark: Simplificando Projetos Java com o Spring Boot
+:hourglass: Introdução aos Conceitos de API e Clean Architecture
 
 <details>
 <summary>Currículo restante no bootcamp</summary>
-<li>Simplificando Projetos Java com o Spring Boot</li>
-<li>Introdução aos Conceitos de API e Clean Architecture</li>
 <li>Desafio Java - Bootcamp Amdocs 2</li>
 <li>Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</li>
 </ul>
