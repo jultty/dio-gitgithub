@@ -31,10 +31,12 @@ Repositório para o desafio Git/GitHub
 :heavy_check_mark: Introdução a APIs e métodos HTTP  
 :heavy_check_mark: Introdução ao framework Spring Boot  
 :heavy_check_mark: Simplificando Projetos Java com o Spring Boot  
-:hourglass: Introdução aos Conceitos de API e Clean Architecture  
+:heavy_check_mark: Introdução aos Conceitos de API e Clean Architecture  
+:hourglass: Mentoria #4: Utilizando Cucumber para testes automatizados  
 
 <details>
 <summary>Currículo restante no bootcamp</summary>
+<li>Mentoria #5: CI/CD (Integração e Implantação Contínuas)</li>
 <li>Desafio Java - Bootcamp Amdocs 2</li>
 <li>Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</li>
 </ul>
