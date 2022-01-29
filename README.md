@@ -34,7 +34,7 @@ Repositório para o desafio Git/GitHub
 :heavy_check_mark: Introdução aos Conceitos de API e Clean Architecture  
 :heavy_check_mark: Mentoria #4: Utilizando Cucumber para testes automatizados  
 :heavy_check_mark: Mentoria #5: CI/CD (Integração e Implantação Contínuas)  
-:hourglass: Desafio Java - Bootcamp Amdocs 2  
+:heavy_check_mark: Desafio Java - Bootcamp Amdocs 2  
 :hourglass: Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot  
 
 <!--
