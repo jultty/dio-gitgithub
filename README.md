@@ -1,10 +1,14 @@
 # Bootcamp Amdocs JAVA Developer
+
 Repositório para o desafio Git/GitHub
 
 ## Conteúdos desse repositório
-- [Git](git.md)
+
+- [Git 1](git.md)
+- [Git 2](git2.md)
 
 ## Meu progresso no bootcamp
+
 :heavy_check_mark: Lógica de Programação Essencial  
 :heavy_check_mark: Estrutura de Dados e Algoritmos  
 :heavy_check_mark: Introdução ao Git e GitHub  
@@ -44,4 +48,3 @@ Repositório para o desafio Git/GitHub
 -->
 
 <p style="font-size:30px" align="center">:black_cat:</p>
-
