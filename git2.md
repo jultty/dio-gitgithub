@@ -228,4 +228,4 @@ O corpo dos commits deve:
 
 
 
-Os commits também têm um rodapé que pode se rusado para referenciar assuntos relacionados como um *issue* que estiver atrelado ao commit.
+Os commits também têm um rodapé que pode ser usado para referenciar assuntos relacionados como um *issue* que estiver atrelado ao commit.
