@@ -8,8 +8,7 @@ Branches permitem trabalhar paralelamente em um projeto e mesclar as modificaç�
 
 A tag ``HEAD`` representa o estado atual, ou seja, o último commit de uma branch.
 
-Criar uma branch
-----------------
+## Criar uma branch
 
 O argumento ``checkout`` é usado para movimentar-se entre diferentes branches.
 
@@ -44,9 +43,7 @@ git checkout main
 git merge nova-funcionalidade
 ```
 
-```
-Renomear e apagar
------------------
+## Renomear e apagar
 
 Para mudar o nome da branch atual:
 
@@ -132,5 +129,3 @@ Para visualizar em forma de gráfico:
 ```bash
 git log --graph
 ```
-
-
