@@ -244,6 +244,6 @@ O 3 representa a versão menor (*minor*), reservada para modificações que impl
 
 O terceiro número (6) representa a versão de *patch*, que se refere a alterações de dia-a-dia como correções de bugs e outras modificações de baixo impacto.
 
-Mais informações sobre versionamento semântico pode ser encontrado em [semver.org](https://semver.org/) e sobre uma convenção de commits relacionada a versionamento semântico em [conventionalcommits.org]([Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)).
+Mais informações sobre versionamento semântico pode ser encontrado em [semver.org](https://semver.org/) e sobre uma convenção de commits relacionada a versionamento semântico em [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/).
 
 Este versionamento e o uso de convencões legíveis por máquina permite que as mensagens de commit interajam com outras aplicações.
