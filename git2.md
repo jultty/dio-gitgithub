@@ -70,8 +70,6 @@ Entre outras coisas, a opção `stash` permite guardar nossas alterações e mov
 
 Após editar arquivos e adicioná-los ao staging com ``git add``, usa-se ``git stash save`` para adicionar as modificações à stash na branch atual.
 
-
-
 É possível salvar uma descrição com o contexto da stash ao criá-la:
 
 ```bash
@@ -145,8 +143,6 @@ git reset HEAD
 
 Esses comandos têm ainda três variações com as flags `--soft`, `--mixed` e `--hard`.
 
-
-
 Para ir diretamente um commit, podemos reverter usando `git reset HASH` onde `HASH` é a hash do commit para o qual estamos revertendo.
 
 Uma segunda forma é orientando-se pela tag `HEAD` usando `git reset HEAD~1`, onde a parte final `~1` significa que a reversão será feita na tag `HEAD` menos uma posição. Alterando este número podemos reverter mais commits em relação a ela:
@@ -184,41 +180,25 @@ Ao invés de retirar o último commit, esta opção cria um novo commit reverten
 
 Sobre o uso de inglês ou português nos commits é recomendado observar o contexto da sua empresa ou grupo. O uso de um idioma ou outro pode ser uma barreira a mais em projetos que fazem mais sentido em um contexto local.
 
-
-
 Os assuntos de commit devem:
 
 * ser curtos e compreensíveis
-
 * ter até 50 caracteres
-
 * começar com letra maiúscula
-
 * não terminar em ponto
-
 * ser escritos em forma imperativa
-
-* 
 
 Para commits em inglês, seria a forma que vem depois de "*If accepted, this commit will...*" e para commits em português viria após "*se aceito, este commit...*".
 
 O corpo dos commits deve:
 
 * ter os detalhes do commit
-
 * quebrar a linha em 75 caracteres
-
 * identificar sua audiência
-
 * explicar tudo
-
 * usar markdown
 
-* 
-
 Os commits também têm um rodapé que pode ser usado para referenciar assuntos relacionados como um *issue* que estiver atrelado ao commit.
-
-
 
 A primeira linha dos commits será registrada como seu título e mostrada para referenciar o commit em alguns pontos das interfaces. Já as demais linhas são também registradas e serão exibidas como o corpo do commit.
 
